@@ -1,6 +1,4 @@
-# Multi_Model_Employee_Salary_Prediction
-
-Employee Salary Prediction – Multi-Model ML Application
+# NextWage
 
 An interactive Machine Learning web application that predicts employee salaries based on factors such as age, education level, number of skills, current salary and years of experience. The project uses the selected model to generate salary predictions.
 
