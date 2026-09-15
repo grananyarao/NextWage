@@ -21,4 +21,4 @@ Python • Pandas • NumPy • Scikit-learn • Matplotlib • Streamlit
 
 🚀 Live Demo
 
-"Streamlit App" : https://multimodelemployeesalaryprediction-fhk6pxjzdwdwj7ajf5srft.streamlit.app/
+"Streamlit App" : https://visionlog-iawf8xqodploadij6cayoc.streamlit.app/
