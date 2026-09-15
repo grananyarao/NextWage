@@ -21,4 +21,4 @@ Python • Pandas • NumPy • Scikit-learn • Matplotlib • Streamlit
 
 🚀 Live Demo
 
-"Streamlit App" : https://visionlog-iawf8xqodploadij6cayoc.streamlit.app/
+"Streamlit App": https://nextwage-k5nkrdydqug6m55pjexabe.streamlit.app/
